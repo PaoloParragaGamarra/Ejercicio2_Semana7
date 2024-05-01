@@ -1,0 +1,37 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "title": "Oferta de Primavera",
+      "description": "Descuento del 20% en todos los productos de primavera.",
+      "points": "Genera puntos de fidelidad con cada compra.",
+      "businessId": 1234,
+      "actions": {
+        "edit": "Editar oferta",
+        "delete": "Eliminar oferta"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Oferta de Verano",
+      "description": "¡Calor de verano, precios más frescos! Descuentos en artículos seleccionados.",
+      "points": "Dobles puntos de fidelidad para compras de verano.",
+      "businessId": 5678,
+      "actions": {
+        "edit": "Editar oferta",
+        "delete": "Eliminar oferta"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Oferta de Otoño",
+      "description": "¡Los precios caen como las hojas! Grandes descuentos en productos de otoño.",
+      "points": "Triples puntos de fidelidad durante la temporada de otoño.",
+      "businessId": 91011,
+      "actions": {
+        "edit": "Editar oferta",
+        "delete": "Eliminar oferta"
+      }
+    }
+  ]
+}

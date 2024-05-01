@@ -1,0 +1,14 @@
+.toolbar {
+  display: flex;
+  justify-content: space-between; /* Alinear elementos a los extremos */
+  align-items: center; /* Alinear elementos verticalmente al centro */
+}
+
+.button {
+  margin-right: 10px; /* Espacio entre el texto y los botones */
+}
+
+.button-row {
+  display: flex;
+  flex-direction: row-reverse; /* Invertir el orden de los botones */
+}

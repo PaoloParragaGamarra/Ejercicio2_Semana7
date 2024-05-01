@@ -1,0 +1,23 @@
+/* Estilos para el contenedor */
+.container {
+  margin: 20px;
+}
+
+/* Estilos para la tarjeta */
+.offerCard {
+  width: 300px; /* Ancho deseado */
+  background-color: #ffffff; /* Color de fondo */
+  border-radius: 10px; /* Radio de borde */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra */
+}
+
+/* Estilos para el título de la tarjeta */
+.mat-card-title {
+  font-size: 20px; /* Tamaño de fuente */
+  font-weight: bold; /* Peso de fuente */
+}
+
+/* Estilos para el subtítulo de la tarjeta */
+.mat-card-subtitle {
+  font-size: 16px; /* Tamaño de fuente */
+}
